@@ -1,0 +1,7 @@
+a = input ("enter a name :  ")
+print(a.upper())
+print(len(a))
+print(id(a))
+print(a.title())
+print(a.count("r"))
+print(a.split("a"))
